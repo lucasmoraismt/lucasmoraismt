@@ -40,6 +40,7 @@ I believe that with a little bit of patience, everyone can code! I'm looking for
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 
+<!--
 <h3>
 <details>
   <summary>GitHub Stats</summary>
@@ -47,6 +48,7 @@ I believe that with a little bit of patience, everyone can code! I'm looking for
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmoraismt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 </h3>
+-->
 <!--
 **lucasmoraismt/lucasmoraismt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

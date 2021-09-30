@@ -9,7 +9,7 @@
 
 ### About me:
 I believe that with a little bit of patience, everyone can code! I'm looking for opportunities to develop smart, clean solutions that can positively impact many people's lives.
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **MongoDB**
 - 💬 Ask me about... Anything!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Motivated by music and curiosity, I'm a basketball enthusiast and love to play chess and indie games :)

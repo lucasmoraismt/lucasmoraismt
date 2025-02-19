@@ -50,12 +50,8 @@ I believe that with a little bit of willpower and patience, everyone can learn h
 <h3>GitHub Stats <h3>
 
 <p align="center">
-  <a href="https://github.com/lucasmoraismt">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmoraismt&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=8&layout=compact&hide_border=true"/>
-  </a>
-  <a href="https://github.com/lucasmoraismt">
-    <img align="center" height="195px" alt="lucasmoraismt" src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmoraismt&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=8&layout=compact&hide_border=true"/>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmoraismt&theme=dark&hide_border=false" />
 </p>
 
 <!--

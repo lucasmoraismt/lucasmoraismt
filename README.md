@@ -1,15 +1,19 @@
 ### Hi there, Lucas here 👋
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500" height="320" />
+<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/lucasmoraismt/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:lucasmoraismt@gmail.com)
+[![Visitors Count](https://komarev.com/ghpvc/?username=lucasmoraismt&label=Visitors&color=0e75b6&style=plastic)](https://github.com/lucasmoraismt)
 
 ---
 
 ### About me:
-I believe that with a little bit of patience, everyone can code! I'm looking for opportunities to develop smart, clean solutions that can positively impact many people's lives.
+I'm a Bachelor's student in Information Systems at the Federal University of Pernambuco (UFPE) in Recife, Brazil. \
+I believe that with a little bit of willpower and patience, everyone can learn how to code!
 - 😄 Pronouns: He/Him
+- 🌱 I’m currently learning Python and C++
+- 🔭 I’m looking for opportunities to develop smart, clean solutions that can positively impact many people's lives.
 - ⚡ Fun fact: Motivated by music and curiosity, I'm a basketball enthusiast and love to play chess and indie games :)
 
 ---
@@ -41,15 +45,19 @@ I believe that with a little bit of patience, everyone can code! I'm looking for
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 
-<!--
-<h3>
-<details>
-  <summary>GitHub Stats</summary>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmoraismt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</details>
-</h3>
--->
+
+<h3>GitHub Stats <h3>
+
+<p align="center">
+  <a href="https://github.com/lucasmoraismt">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmoraismt&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=8&layout=compact&hide_border=true"/>
+  </a>
+  <a href="https://github.com/lucasmoraismt">
+    <img align="center" height="195px" alt="lucasmoraismt" src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" />
+  </a>
+</p>
+
 <!--
 **lucasmoraismt/lucasmoraismt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
